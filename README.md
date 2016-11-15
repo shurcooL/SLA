@@ -20,7 +20,12 @@ Response Time
 Applicability
 -------------
 
-This SLA applies to all Go packages under the `github.com/shurcooL/...` namespace, with the exception of:
+This SLA applies to all Go packages under the following namespaces:
+
+-	`github.com/shurcooL/...`
+-	`github.com/goxjs/...`
+
+with the exception of:
 
 -	`github.com/shurcooL/play/...`
 -	`github.com/shurcooL/Conception-go/...`
