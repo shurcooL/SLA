@@ -13,9 +13,11 @@ Uptime
 Response Time
 -------------
 
--	**≤ 24 hours response time**
+-	**~~≤ 24 hours response time~~ (on hold until 2017/06/18)**
 
-	Issues, pull requests and comments are responded to within 24 hours.
+	~~Issues, pull requests and comments are responded to within 24 hours.~~
+	
+	No response time expectations until I'm back from [2 weeks of travel](https://twitter.com/shurcool/status/871528913108971520).
 
 Breaking API Changes
 --------------------
