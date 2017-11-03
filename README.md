@@ -51,4 +51,3 @@ This SLA applies to all Go packages under the following namespaces:
 with the exception of:
 
 -	`github.com/shurcooL/play/...`
--	`github.com/shurcooL/Conception-go/...`
