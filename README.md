@@ -44,7 +44,7 @@ Applicability
 
 This SLA applies to all Go packages under the following namespaces:
 
--	[`dmitri.shuralyov.com/...`](https://dmitri.shuralyov.com/packages?pattern=dmitri.shuralyov.com%2F...)
+-	[`dmitri.shuralyov.com/...`](https://dmitri.shuralyov.com/...)
 -	[`github.com/shurcooL/...`](https://github.com/shurcooL?tab=repositories)
 -	[`github.com/goxjs/...`](https://github.com/goxjs?tab=repositories)
 
