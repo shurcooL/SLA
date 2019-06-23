@@ -13,9 +13,9 @@ Uptime
 Response Time
 -------------
 
--	**≤ 7 days response time**
+-	**unspecified response time**
 
-	Issues, pull requests and comments are responded to within 7 days.
+	Issues, pull requests and comments are responded to with no timing guarantees.
 
 Breaking API Changes
 --------------------
